@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="back">back</string>
+    <string name="login">login</string>
+    <string name="name">name</string>
+    <string name="enter_password">password</string>
+    <string name="password">pass</string>
+    <string name="llogin">Login</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
